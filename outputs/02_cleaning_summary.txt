@@ -1,0 +1,11 @@
+Football Match Prediction - Cleaning and Feature Engineering Summary
+==================================================================
+
+original_rows: 110938
+original_columns: 190
+removed_invalid_target: 0
+removed_duplicate_match_id: 0
+final_rows: 110938
+final_features_before_encoding: 244
+target_distribution: {'home': 48113, 'away': 35174, 'draw': 27651}
+missing_values_after_feature_engineering: 1778875
